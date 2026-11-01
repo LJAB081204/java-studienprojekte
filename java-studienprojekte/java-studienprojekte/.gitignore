@@ -1,0 +1,13 @@
+# Build output
+build/
+dist/
+target/
+*.class
+*.jar
+# NetBeans / IDE
+nbproject/private/
+.idea/
+.vscode/
+# OS
+.DS_Store
+Thumbs.db
